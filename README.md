@@ -1,6 +1,7 @@
 # Build A Portfolio Website
 
 Here is a small change I can delete later
+And here is another
 
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
